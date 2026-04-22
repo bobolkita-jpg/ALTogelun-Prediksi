@@ -25,7 +25,6 @@ workflows:
     publishing:
       email:
         recipients:
-          - bobolkita@gmail.com
         notify:
           success: true
           failure: true
